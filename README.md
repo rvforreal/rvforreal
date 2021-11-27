@@ -1,0 +1,16 @@
+- 👋 Hi, I’m @rvforreal
+- 📫 You can reach me by my mail ravikmr.kumar51@gmail.com
+- My career objective is to work in an organization, where I can utilize my knowledge for self and organization’s growth.
+- I am currently persuing my B.E. from CMRIT, Bangalore.
+- My technical skills are
+  - Languages- Java, C++, HTML
+  - Software: VHDL (Beginner), Keil uvision4(Beginner), VS code, MS- Word, MS- Powerpoint Database, MS-Excel
+  - Database: MySQL (Intermediate)
+- Co- Curricular Activities
+  -Online Courses: Python, C, C++
+- Extra – Curricular Activities:
+  - Blogger 
+- Awards and Acheivements
+  - Won Gold Medal in Interschool March Past. (2015 and 2014)
+- Language Known :English, Hindi
+- Hobbies :Listening to Music, Writing, Drawing, Bike Riding
